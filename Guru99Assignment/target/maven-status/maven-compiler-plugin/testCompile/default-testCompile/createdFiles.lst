@@ -1,0 +1,7 @@
+stepDefinitions\QuoteRequestSteps.class
+pages\HomePage.class
+pages\SignInPage.class
+utilities\BrowserDriver.class
+pages\RegistrationPage.class
+stepDefinitions\RegistrationAndLoginSteps.class
+runner\TestRunner.class
